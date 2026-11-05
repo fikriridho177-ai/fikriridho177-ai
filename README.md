@@ -1,157 +1,154 @@
 <div align="center">
 
-# Hi, I'm Fikri Ridho 👋
+# Halo, saya Fikri Ridho 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-fikriridho177-ai-181717?style=for-the-badge&logo=github)](https://github.com/fikriridho177-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-FF6B6B?style=for-the-badge)](#)
+**Pengembang perangkat lunak yang tertarik pada backend, integrasi sistem, otomasi, dan IoT.**
 
-Software Developer with interest in backend development, system integration, automation, and IoT.  
-I enjoy building solutions that connect apps, databases, devices, and real-time monitoring systems.
+Saya senang membangun solusi yang menghubungkan aplikasi, API, basis data, perangkat, dan sistem pemantauan.
+
+[![GitHub](https://img.shields.io/badge/GitHub-fikriridho177--ai-181717?style=for-the-badge&logo=github)](https://github.com/fikriridho177-ai)
 
 </div>
 
 ---
 
-## About Me
+## Tentang Saya
 
-I am a developer who likes to solve real-world problems through technology.  
-My experience includes:
+Saya mengembangkan proyek perangkat lunak untuk berbagai kebutuhan, mulai dari aplikasi web dan layanan backend hingga pengumpulan data serta prototipe IoT.
 
-- Backend development with .NET, Python, and TypeScript
-- Frontend development with React and Vite
-- Real-time application integration using SignalR
-- Automation and operational monitoring systems
-- IoT and embedded system prototypes with Arduino and ESP32
-- Data collection and monitoring from external vendors/devices
+Beberapa bidang yang pernah saya kerjakan:
 
-I am especially interested in projects that combine backend logic, automation, system reliability, and practical usage.
-
----
-
-## Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- Backend dan API
+- Aplikasi web dengan TypeScript dan React
+- Integrasi layanan real-time dengan SignalR
+- Otomasi dan pemantauan operasional
+- Pengumpulan data dari layanan atau perangkat eksternal
+- Prototipe IoT menggunakan Arduino dan ESP32
+- Deployment aplikasi menggunakan Docker
 
 ---
 
-## Highlighted Projects
+## Teknologi
 
-### 1. APIHelpDesk
-A help desk and internal support system with API and frontend integration.
+Teknologi berikut muncul pada proyek-proyek yang saya kerjakan:
 
-- Backend: C#, ASP.NET Core
-- Frontend: React/Vite
-- Database: PostgreSQL / SQL Server
-- Real-time: SignalR
-- Deployment: Docker + Nginx
+**Bahasa pemrograman**  
+TypeScript · C# · Python · JavaScript · C++ · PHP
 
-GitHub: https://github.com/fikriridho177-ai/APIHelpDesk
+**Framework dan teknologi**  
+React · ASP.NET Core · Docker · SignalR · MQTT · REST API
 
----
-
-### 2. MyHelpDesk
-Frontend help desk application integrated with the API project.
-
-- Frontend-focused application
-- Modern UI for support and user interactions
-- Built with TypeScript/React
-
-GitHub: https://github.com/fikriridho177-ai/MyHelpDesk
+**Basis data**  
+PostgreSQL · SQL Server · MongoDB
 
 ---
 
-### 3. RSUP-DataLogger-Collector
-Operational data collector and monitoring system for vendor data logger sources.
+## Proyek Pilihan
 
-- Automated authentication handling
-- Daily report generation
-- Telegram-based operational notifications
-- MQTT-based data delivery
-- Logs and state auditing for reliability
+### APIHelpDesk
 
-This project demonstrates backend automation, monitoring, and operational resilience.
+Aplikasi help desk yang menggabungkan frontend web dan layanan API.
 
-GitHub: https://github.com/fikriridho177-ai/RSUP-DataLogger-Collector
+- API menggunakan ASP.NET Core
+- Frontend menggunakan React dan Vite
+- Integrasi real-time menggunakan SignalR
+- Terhubung dengan PostgreSQL dan SQL Server
+- Konfigurasi deployment menggunakan Docker Compose dan Nginx
 
----
+[Repositori APIHelpDesk](https://github.com/fikriridho177-ai/APIHelpDesk)
 
-### 4. Prototype Alat Penyortiran Ikan Lele
-IoT-based fish sorting prototype using microcontrollers and sensors.
+### MyHelpDesk
 
-- Arduino Uno + ESP32
-- Load cell sensor
-- Servo motor actuator
-- MQTT / REST integration
-- Android monitoring with Blynk
-- MongoDB data storage
+Frontend aplikasi help desk yang dikembangkan menggunakan TypeScript. Repositori ini juga digunakan bersama APIHelpDesk dalam deployment terpadu.
 
-This project shows integration between embedded hardware, data collection, and software monitoring.
+[Repositori MyHelpDesk](https://github.com/fikriridho177-ai/MyHelpDesk)
 
-GitHub: https://github.com/fikriridho177-ai/Prototype-Alat-Penyortiran-Ikan-Lele
+### RSUP DataLogger Collector
 
----
+Sistem pengumpulan data dan pemantauan operasional untuk beberapa sumber DataLogger.
 
-### 5. MyPadGHS
-Plantation management system with frontend and backend modules.
+- Mengelola hasil pengumpulan data dari beberapa vendor
+- Mengirim notifikasi dan laporan operasional melalui Telegram
+- Menyediakan pemeriksaan status autentikasi dan sensor
+- Menyimpan audit pengiriman dan menangani kegagalan sumber secara terpisah
+- Memiliki pengujian otomatis; README proyek mencatat 58 tes lulus dan UAT operator selesai
+
+[Repositori RSUP DataLogger Collector](https://github.com/fikriridho177-ai/RSUP-DataLogger-Collector)
+
+### Prototipe Penyortir Ikan Lele Berbasis IoT
+
+Prototipe penyortiran ikan lele otomatis berdasarkan berat, dengan pemantauan melalui aplikasi Android.
+
+- Arduino Uno dan ESP32
+- Load cell HX711 untuk mengukur berat
+- Motor servo untuk menggerakkan mekanisme sortir
+- Blynk untuk pemantauan
+- REST API dan MongoDB untuk penyimpanan data
+- README proyek mencatat rata-rata galat sensor sebesar 2,90%
+
+[Repositori Prototipe Penyortir Ikan Lele](https://github.com/fikriridho177-ai/Prototype-Alat-Penyortiran-Ikan-Lele)
+
+### MyPad GHS
+
+Proyek sistem manajemen perkebunan dengan repositori frontend dan backend terpisah.
 
 - Frontend: TypeScript
 - Backend: Python
-- Business system context with monitoring and operational workflows
 
-GitHub:
-- Frontend: https://github.com/fikriridho177-ai/MyPadGHS_FE
-- Backend: https://github.com/fikriridho177-ai/MyPadGHS_BE
+[Repositori frontend](https://github.com/fikriridho177-ai/MyPadGHS_FE) ·
+[Repositori backend](https://github.com/fikriridho177-ai/MyPadGHS_BE) ·
+[Repositori MyPad GHS](https://github.com/fikriridho177-ai/mypad_ghs)
 
----
+### Proyek Perangkat dan Embedded System
 
-## Current Focus
+Saya juga mengerjakan proyek berbasis C/C++, termasuk logger Arduino dan prototipe penyortiran ikan lele.
 
-- Backend development
-- System integration and API architecture
-- Automation and monitoring
-- Real-time services
-- IoT + application integration
-- Deployment and operational reliability
+- [Logger Arduino](https://github.com/fikriridho177-ai/logger_arduino)
+- [Prototipe Penyortir Ikan Lele](https://github.com/fikriridho177-ai/Prototype-Alat-Penyortiran-Ikan-Lele)
 
 ---
 
-## GitHub Stats
+## Fokus Saya
+
+- Pengembangan backend dan API
+- Integrasi antar-layanan dan sistem
+- Otomasi serta pemantauan operasional
+- Aplikasi real-time
+- Integrasi aplikasi dengan perangkat IoT
+- Deployment dan keandalan aplikasi
+
+---
+
+## Statistik GitHub
+
+<!--
+Kartu statistik ini menggunakan layanan eksternal.
+Jika gambar tidak tampil, hapus bagian ini atau coba buka URL gambar secara langsung.
+-->
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikriridho177-ai&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fikriridho177-ai&layout=compact&theme=tokyonight)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fikriridho177-ai&amp;show_icons=true&amp;theme=tokyonight"
+    alt="Statistik GitHub Fikri Ridho"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikriridho177-ai&amp;layout=compact&amp;theme=tokyonight"
+    alt="Bahasa pemrograman pada repositori Fikri Ridho"
+    height="165"
+  />
 </div>
 
 ---
 
-## Contact
+## Kontak
 
-Feel free to connect or collaborate on interesting projects.
-
-- GitHub: https://github.com/fikriridho177-ai
-- Email: [your_email_here]
-- LinkedIn: [your_linkedin_here]
+- GitHub: [@fikriridho177-ai](https://github.com/fikriridho177-ai)
 
 ---
 
-> “I build practical solutions that connect systems, devices, and people.”
+<div align="center">
+
+*Membangun solusi praktis yang menghubungkan aplikasi, data, perangkat, dan manusia.*
+
+</div>
