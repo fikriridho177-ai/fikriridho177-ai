@@ -55,6 +55,7 @@ Beberapa bidang yang pernah saya kerjakan:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## Proyek Pilihan
@@ -135,19 +136,14 @@ Saya juga mengerjakan proyek berbasis C/C++, termasuk logger Arduino dan prototi
 
 ## Statistik GitHub
 
-<!--
-Kartu statistik ini menggunakan layanan eksternal.
-Jika gambar tidak tampil, hapus bagian ini atau coba buka URL gambar secara langsung.
--->
-
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=fikriridho177-ai&amp;show_icons=true&amp;theme=tokyonight"
+    src="https://github-readme-stats-egtj.vercel.app/api?username=fikriridho177-ai&amp;show_icons=true&amp;theme=tokyonight"
     alt="Statistik GitHub Fikri Ridho"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikriridho177-ai&amp;layout=compact&amp;theme=tokyonight"
+    src="https://github-readme-stats-egtj.vercel.app/api/top-langs/?username=fikriridho177-ai&amp;layout=compact&amp;theme=tokyonight"
     alt="Bahasa pemrograman pada repositori Fikri Ridho"
     height="165"
   />
